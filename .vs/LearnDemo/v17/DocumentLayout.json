@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergh\\projects\\LearnDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3F4CD3-C40E-4060-B922-90A40AB19EBB}|Basics\\Basics.csproj|c:\\users\\sergh\\projects\\learndemo\\basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3F4CD3-C40E-4060-B922-90A40AB19EBB}|Basics\\Basics.csproj|solutionrelative:basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|c:\\users\\sergh\\projects\\learndemo\\methods\\cars\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|solutionrelative:methods\\cars\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|c:\\users\\sergh\\projects\\learndemo\\methods\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|solutionrelative:methods\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|c:\\users\\sergh\\projects\\learndemo\\methods\\cars\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|solutionrelative:methods\\cars\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|c:\\users\\sergh\\projects\\learndemo\\methods\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|solutionrelative:methods\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|c:\\users\\sergh\\projects\\learndemo\\methods\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|solutionrelative:methods\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|c:\\users\\sergh\\projects\\learndemo\\methods\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|solutionrelative:methods\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED11AA2D-BC03-4E07-B4FD-F548321B3EDC}|Basics2\\Basics2.csproj|c:\\users\\sergh\\projects\\learndemo\\basics2\\basics2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED11AA2D-BC03-4E07-B4FD-F548321B3EDC}|Basics2\\Basics2.csproj|solutionrelative:basics2\\basics2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED11AA2D-BC03-4E07-B4FD-F548321B3EDC}|Basics2\\Basics2.csproj|c:\\users\\sergh\\projects\\learndemo\\basics2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED11AA2D-BC03-4E07-B4FD-F548321B3EDC}|Basics2\\Basics2.csproj|solutionrelative:basics2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3F4CD3-C40E-4060-B922-90A40AB19EBB}|Basics\\Basics.csproj|c:\\users\\sergh\\projects\\learndemo\\basics\\basics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC3F4CD3-C40E-4060-B922-90A40AB19EBB}|Basics\\Basics.csproj|solutionrelative:basics\\basics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|c:\\users\\sergh\\projects\\learndemo\\methods\\methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1FF85BF-D766-4EC7-B8DE-D11EF12B5B25}|Methods\\Methods.csproj|solutionrelative:methods\\methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Basics2",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics2\\Basics2.csproj",
+              "RelativeDocumentMoniker": "Basics2\\Basics2.csproj",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics2\\Basics2.csproj",
+              "RelativeToolTip": "Basics2\\Basics2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T10:10:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Methods\\Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Animals\\Cat.cs",
+              "RelativeToolTip": "Methods\\Animals\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:09:58.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Animal.cs",
+              "RelativeDocumentMoniker": "Methods\\Animal.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Animal.cs",
+              "RelativeToolTip": "Methods\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:48:52.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics2\\Program.cs",
+              "RelativeDocumentMoniker": "Basics2\\Program.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics2\\Program.cs",
+              "RelativeToolTip": "Basics2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:44:46.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Methods",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Methods.csproj",
+              "RelativeDocumentMoniker": "Methods\\Methods.csproj",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Methods.csproj",
+              "RelativeToolTip": "Methods\\Methods.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T09:38:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Basics.csproj",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics\\Basics.csproj",
+              "RelativeDocumentMoniker": "Basics\\Basics.csproj",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics\\Basics.csproj",
+              "RelativeToolTip": "Basics\\Basics.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T09:33:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Methods\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Animals\\Dog.cs",
+              "RelativeToolTip": "Methods\\Animals\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:45:12.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Basics\\Program.cs",
+              "RelativeToolTip": "Basics\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:19:55.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Cars\\BMW.cs",
+              "RelativeDocumentMoniker": "Methods\\Cars\\BMW.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Cars\\BMW.cs",
+              "RelativeToolTip": "Methods\\Cars\\BMW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:14:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Car.cs",
+              "RelativeDocumentMoniker": "Methods\\Car.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Car.cs",
+              "RelativeToolTip": "Methods\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:14:00.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Cars\\Toyota.cs",
+              "RelativeDocumentMoniker": "Methods\\Cars\\Toyota.cs",
+              "ToolTip": "C:\\Users\\sergh\\projects\\LearnDemo\\Methods\\Cars\\Toyota.cs",
+              "RelativeToolTip": "Methods\\Cars\\Toyota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:15:36.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
